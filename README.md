@@ -4,9 +4,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maryam.ghane1997@gmail.com)
 [![Github](https://img.shields.io/github/followers/mgh997?label=Follow&style=social)](https://github.com/mgh997)
 
-- 📊 Data scientist with experience in data visualization and machine learning.
+- 📊 Data scientist with experience in data visualization, data analysis, and machine learning.
 - 🧠 Skilled in statistical modeling and building reliable ML workflows.
-- 🖥️ sharing projects, experiments, and documented analyses here on GitHub.
+- 🖥️ Sharing data-driven projects, experiments, and documented analyses on GitHub.
 - 📫 How to reach me: maryam.ghane1997@gmail.com
 
 
