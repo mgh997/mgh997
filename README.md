@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maryam.ghane1997@gmail.com)
 [![Github](https://img.shields.io/github/followers/mgh997?label=Follow&style=social)](https://github.com/mgh997)
 
-I’m a data analyst passionate about turning raw data into clear, actionable insights. My projects span SQL, Python, and BI tools, and I enjoy exploring new Python libraries, AI techniques, and even machine learning and deep learning methods to expand my analytical toolkit. I focus on reproducible analyses and interactive dashboards that tell a story and support decision-making.
+I’m a data analyst passionate about turning data into actionable insights. I work with SQL, Python, and BI tools, and I’m continually exploring new libraries and techniques in AI and machine learning to grow my skills and take on more advanced data challenges.
 
 - 📊 Skilled in data cleaning, analysis, visualization, and reporting using Python, SQL, Tableau, and Power BI.
 - 🧠 Experienced in creating interactive dashboards and reports that demonstrate trends and opportunities.
@@ -39,6 +39,6 @@ I’m a data analyst passionate about turning raw data into clear, actionable in
 
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgh997&show_icons=true&locale=en&layout=compact" alt="mgh997" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mgh997&" alt="mgh997" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgh997&show_icons=true&locale=en&layout=compact" alt="mgh997"/>
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mgh997&" alt="mgh997"/>
 </div>
