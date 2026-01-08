@@ -4,6 +4,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maryam.ghane1997@gmail.com)
 [![Github](https://img.shields.io/github/followers/mgh997?label=Follow&style=social)](https://github.com/mgh997)
 
+I’m a data analyst passionate about turning raw data into clear, actionable insights. My projects span SQL, Python, and BI tools, and I enjoy exploring new Python libraries, AI techniques, and even machine learning and deep learning methods to expand my analytical toolkit. I focus on reproducible analyses and interactive dashboards that tell a story and support decision-making.
+
 - 📊 Skilled in data cleaning, analysis, visualization, and reporting using Python, SQL, Tableau, and Power BI.
 - 🧠 Experienced in creating interactive dashboards and reports that demonstrate trends and opportunities.
 - 🔍 Exploring AI, ML, and deep learning techniques to enhance data-driven solutions.
@@ -21,11 +23,6 @@
 
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535)!
-![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
-
----
-### new
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=Numpy&color=353535)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535)
@@ -39,7 +36,6 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=353535)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=Power-BI&color=353535)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
----
 
 
 <div>
