@@ -8,7 +8,7 @@ I’m a data analyst passionate about turning data into actionable insights. I w
 
 - 📊 Skilled in data cleaning, analysis, visualization, and reporting using Python, SQL, Tableau, and Power BI.
 - 🧠 Experienced in creating interactive dashboards and reports that demonstrate trends and opportunities.
-- 🔍 Exploring AI, ML, and deep learning techniques to enhance data-driven solutions.
+- 🔍 Exploring AI and ML techniques to enhance data-driven solutions.
 - 🖥️ Sharing data-driven projects, experiments, and documented analyses on GitHub.
 - 📫 How to reach me: maryam.ghane1997@gmail.com
 
