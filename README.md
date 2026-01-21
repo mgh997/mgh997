@@ -27,39 +27,17 @@ I’m a data analyst passionate about turning data into actionable insights. I w
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=Numpy&color=353535)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535)
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat-square&logo=Microsoft-SQL-Server&color=353535)
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=353535)
-![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=Power-BI&color=353535)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
-
-
-
-
-
-
-tech:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=Numpy&color=353535)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat-square&logo=Microsoft-SQL-Server&color=353535)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat-square&logo=Google-BigQuery&color=353535)
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=353535)
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-05122A?style=flat-square&logo=Google-Analytics&color=353535)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=Power-BI&color=353535)
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=353535)
 ![Google Cloud Platform](https://img.shields.io/badge/-GCP-05122A?style=flat-square&logo=Google-Cloud&color=353535)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
 
-
-
------
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgh997&show_icons=true&locale=en&layout=compact" alt="mgh997"/>
