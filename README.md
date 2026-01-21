@@ -4,22 +4,22 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maryam.ghane1997@gmail.com)
 [![Github](https://img.shields.io/github/followers/mgh997?label=Follow&style=social)](https://github.com/mgh997)
 
-I’m a data analyst passionate about turning data into actionable insights. I work with SQL, Python, and BI tools, and I’m continually exploring new libraries and techniques in AI and machine learning to grow my skills and take on more advanced data challenges.
+I’m a data analyst passionate about turning data into actionable insights. I work with SQL, Python, and BI tools, and I’m continually exploring new libraries and techniques in data analysis, experimentation, and AI/ML to grow my skills and tackle advanced analytics challenges.
 
-- 📊 Skilled in data cleaning, analysis, visualization, and reporting using Python, SQL, Tableau, and Power BI.
+- 📊 Skilled in data cleaning, analysis, visualization, and reporting using Python, SQL, Looker Studio, Tableau, and Power BI.
 - 🧠 Experienced in creating interactive dashboards and reports that demonstrate trends and opportunities.
-- 🔍 Exploring AI and ML techniques to enhance data-driven solutions.
+- 🔍 Applying statistical analysis and A/B testing to support experimentation and data-informed product decisions.
 - 🖥️ Sharing data-driven projects, experiments, and documented analyses on GitHub.
 - 📫 How to reach me: maryam.ghane1997@gmail.com
 
 
 ### 🖥 Skills
 
-- Data Analysis
+- Data Analysis & Reporting
 - Data Cleaning & Visualization
-- SQL & Database Management
-- Dashboarding (Tableau, Power BI)
-- Python for Data Analysis and Experimentation
+- SQL & Database Management (PostgreSQL, MySQL, SQL Server, BigQuery)
+- Dashboarding (Looker Studio, Power BI, Tableau)
+- Python for Analysis, Statistical Testing, and Experimentation 
 
 ### ⚙️ Tech Stack
 
@@ -37,6 +37,29 @@ I’m a data analyst passionate about turning data into actionable insights. I w
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=Power-BI&color=353535)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
 
+
+
+
+
+
+tech:
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=Numpy&color=353535)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat-square&logo=Microsoft-SQL-Server&color=353535)
+![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat-square&logo=Google-BigQuery&color=353535)
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=Tableau&color=353535)
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=Power-BI&color=353535)
+![Google Cloud Platform](https://img.shields.io/badge/-GCP-05122A?style=flat-square&logo=Google-Cloud&color=353535)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+
+
+
+-----
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgh997&show_icons=true&locale=en&layout=compact" alt="mgh997"/>
